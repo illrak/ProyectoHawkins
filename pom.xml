@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
     <groupId>com.proyectohawkins</groupId>
+=======
+    <groupId>com.mycompany</groupId>
+>>>>>>> 9c9cdc16ea5f5d45b1290ae79f27be143f0d14a4
     <artifactId>ProyectoHawkins</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+<<<<<<< HEAD
         <maven.compiler.release>27</maven.compiler.release>
         <exec.mainClass>com.proyectohawkins.proyectohawkins.ProyectoHawkins</exec.mainClass>
+=======
+        <maven.compiler.release>25</maven.compiler.release>
+        <exec.mainClass>com.mycompany.proyectohawkins.ProyectoHawkins</exec.mainClass>
+>>>>>>> 9c9cdc16ea5f5d45b1290ae79f27be143f0d14a4
     </properties>
 </project>
